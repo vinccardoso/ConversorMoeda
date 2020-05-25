@@ -1,0 +1,12 @@
+.conversor{
+    padding:20px;
+    max-width: 300px;
+    box-shadow: 1px 1px 4px 4px #f9f9f9;
+    margin: 10px 20px;
+    text-align: center;
+}
+select{
+    font:bold;
+    font-size:18px;
+    margin:0 10px
+}
